@@ -1,0 +1,8 @@
+# Daily Combined Breach Report – top-level dependencies
+# Run: pip-compile requirements.in  (produces requirements.txt)
+
+requests
+beautifulsoup4
+python-dateutil
+python-dotenv
+lxml
