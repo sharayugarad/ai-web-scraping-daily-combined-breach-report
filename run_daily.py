@@ -22,7 +22,7 @@ from email_utils import send_report
 
 # Absolute path to the .env file containing SMTP credentials.
 # Edit this before running.
-ENV_PATH = '/Users/sharayu/CodeLab/Local Secrets/secrets.local.env'
+ENV_PATH = '/Users/sharayu/CodeLab/secrets.local.env'
 
 # ─── Logging ──────────────────────────────────────────────────────────────────
 
