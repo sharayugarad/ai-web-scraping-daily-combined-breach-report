@@ -169,7 +169,7 @@ def _build_html(nh_records: list[dict], hhs_records: list[dict],
 
 def _build_subject(nh_records: list[dict],
                    hhs_records: list[dict]) -> str:  # noqa: ARG001
-    return "Daily Combined Breach Report"
+    return "🔑 Daily Combined Breach Report"
 
 
 # ─── SMTP sender ──────────────────────────────────────────────────────────────
